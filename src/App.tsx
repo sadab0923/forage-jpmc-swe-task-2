@@ -1,3 +1,8 @@
+From ad2268762f8bdbc2ed5efe6f88fe40b89776c8b3 Mon Sep 17 00:00:00 2001
+From: Joe Ferrer <joe@theforage.com>
+Date: Wed, 1 Mar 2023 02:31:47 +1100
+Subject: [PATCH 1/4] Update getDataPoint
+  
 import React, { Component } from 'react';
 import DataStreamer, { ServerRespond } from './DataStreamer';
 import Graph from './Graph';
